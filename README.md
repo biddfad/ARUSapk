@@ -28,9 +28,9 @@ Aplikasi navigasi Android pintar berbasis peta TomTom yang mendukung perintah su
 
 ## 📥 Cara Instalasi Aplikasi (APK)
 
-1. Buka halaman repository ini di browser Anda.
-2. Masuk ke bagian **Releases** di sebelah kanan halaman GitHub ini.
-3. Unduh berkas **`app-debug.apk`** versi terbaru.
+1. Buka halaman utama repository ini di browser Anda.
+2. Klik berkas **`arus.apk`** pada daftar berkas di atas.
+3. Klik tombol **Download** (atau "Download raw file") untuk mengunduh berkas tersebut.
 4. Buka berkas `.apk` yang telah diunduh di perangkat Android Anda.
 5. Jika muncul peringatan keamanan, aktifkan opsi **Izinkan Instalasi dari Sumber Tidak Dikenal (Unknown Sources)**.
 6. Buka aplikasi **ARUS** dan berikan izin akses berikut saat diminta agar fitur berjalan dengan lancar:
